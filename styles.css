@@ -3,6 +3,11 @@
     color: #FF00D6;
     text-align: center;
     font-size: 5em;
+    font-weight: 100;
+}
+
+#main-menu a:hover {
+	text-decoration: blink;
 }
 .emoji {
     font-size: 10em;
@@ -33,6 +38,7 @@ body center video {
 body center h2 {
     color: #17F3FF;
     font-size: 3em;
+    font-weight: 100;
 }
 td form label {
     color: #17F3FF;
@@ -41,6 +47,7 @@ td form label {
 body center h1 {
     color: #17F3FF;
     font-size: 4em;
+    font-weight: 200;
 }
 .join {
     color: #FF00D6;
@@ -55,4 +62,48 @@ body center h1 {
     font-weight: bold;
     text-decoration: underline;
     color: #EBFF00;
+}
+.menu-tab {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+}
+.menu-tab-text {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    color: #EBFF00;
+}
+a:hover { text-decoration: blink; }
+
+body footer p {
+    text-align: center;
+    font-weight: 600;
+    font-size: medium;
+}
+#main-menu {
+    text-align: center;
+    font-style: oblique;
+    font-variant: normal;
+    font-weight: 800;
+    font-size: large;
+    border: 5px solid #FFFB00;
+    width: 500px;
+    margin-left: 30%;
+    margin-right: 30%;
+    right: 5px;
+    bottom: 5px;
+    left: 5px;
+    top: 5px;
+}
+#footer-menu {
+    text-align: center;
+    font-style: oblique;
+    font-variant: normal;
+    font-weight: 800;
+    font-size: large;
+    border: 5px solid #FFFB00;
+    width: 500px;
+    margin-left: 30%;
+    margin-right: 30%;
+    right: 5px;
+    bottom: 5px;
+    left: 5px;
+    top: 5px;
 }
